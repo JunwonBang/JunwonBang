@@ -18,12 +18,6 @@
 <h4 align="center"> Machine Learning </h4>
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-</a>&nbsp 
-</p>
-
 <br>
 
 <h3 align="center"> ✉️ Contact ✉️ </h3>
