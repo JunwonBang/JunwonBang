@@ -16,7 +16,6 @@
 
 <h3 align="center">🔥 Interests 🔥</h3>
 <h4 align="center"> Machine Learning </h4>
-<br>
 
 <br>
 
